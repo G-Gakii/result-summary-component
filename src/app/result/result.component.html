@@ -1,0 +1,22 @@
+<div class="result_container">
+  <h2>Your Result</h2>
+  <div class="score">
+    <h3 class="average">
+      {{ average }}
+    </h3>
+
+    <p class="total">of 100</p>
+  </div>
+
+  @if (average>65) {
+  <h3 class="comment">Great</h3>
+  <p class="comment_exp">
+    You scored higher than 65% of the people who have taken these tests.
+  </p>
+  }@else {
+  <h3 class="comment">Oops!</h3>
+  <p class="comment_exp">
+    You scored less than 65% of the people who have taken these tests.
+  </p>
+  }
+</div>
