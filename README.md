@@ -28,12 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![desktop display](https://github.com/G-Gakii/result-summary-component/blob/main/public/assets/images/screenshot/desktop.png)
+![mobile display](https://github.com/G-Gakii/result-summary-component/blob/main/public/assets/images/screenshot/mobile.png)
 
 ### Links
 
 - Solution URL: (http://localhost:4200/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://result-summary-component-dusky.vercel.app)
 
 ## My process
 
@@ -45,6 +46,14 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - Angular
+
+###Run
+- git clone<project URL>
+- cd resultSummaryComponent
+- npm install
+- npm start
+
+
 
 ## Author
 
