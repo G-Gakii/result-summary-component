@@ -29,6 +29,12 @@ Users should be able to:
 ### Screenshot
 
 ![desktop display](https://github.com/G-Gakii/result-summary-component/blob/main/public/assets/images/screenshot/desktop.png)
+
+
+
+
+
+
 ![mobile display](https://github.com/G-Gakii/result-summary-component/blob/main/public/assets/images/screenshot/mobile.png)
 
 ### Links
